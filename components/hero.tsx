@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useRef } from "react"
+import { useEffect, useRef } from "react
 import Image from "next/image"
 
 export default function Hero() {
@@ -56,7 +56,7 @@ export default function Hero() {
             ref={subtitleRef}
             className="text-base sm:text-lg md:text-xl lg:text-2xl font-light tracking-wider text-gray-600 max-w-full md:max-w-[80%]"
           >
-            ARCHITECTURE & ARTISTIC EXPRESSION
+            ARCHITECTURE & ARTISTIC EXPRESSION.
           </p>
         </div>
       </div>
